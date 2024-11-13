@@ -1,0 +1,165 @@
+.first{
+    padding: 20px;
+    margin: 10px;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 200;
+    font-style: italic;
+    text-transform: capitalize;
+    letter-spacing: 1px;
+    line-height: 16px;
+    text-align: center; 
+
+ } 
+ h2{
+    text-align: center;
+ }
+ .paraone{
+    text-align: left;
+
+ }
+ .color{
+    background-color: aqua;
+ }
+ /* body{ */
+    /* background-color: aqua; */
+  /* }  */
+ 
+  /* .Container{ */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+
+    
+    
+  
+  .head_container{
+    background-image: url(../images/lle.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    
+  }
+  nav{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+    background-color: aqua;
+    
+  }
+  .home:hover{
+    background-color: chartreuse;
+    padding: 10px;
+
+  }
+  .about:hover{
+    background-color: blue;
+    padding: 10px;
+  }
+  .contact:hover{
+    background-color: rgb(24, 104, 107);
+    padding: 10px;
+  }
+  
+  .Career_Ready_CR-LUP{
+    width: 30%;
+    /* border: 10px;
+    margin-bottom: 30px;
+    border-radius: 30px; */
+    /* width: 20%; */
+    height: 200px;
+    /* border-radius: 50%; */
+  }
+  .career_ready_image{
+    width: 100%;
+    /* height: 300px; */
+  }
+  .Career_Direct_CD-LUP{
+    width: 30%;
+    /* border: 10px;
+    margin-bottom: 30px;
+    border-radius: 30px; */
+    /* width: 20%; */
+    height: 200px;
+    /* border-radius: 50%; */
+    
+  }
+  .Career_Direct_image{
+    width: 100%;
+    /* border-radius: 50%; */
+     /* height: 300px; */
+  }
+  .Collegeaid_CAD-LUP{
+    width: 30%;
+    /* border: 10px;
+    margin-bottom: 30px;
+    border-radius: 30px; */
+    /* width: 20%; */
+    height: 200px;
+    /* border-radius: 50%; */
+    
+  }
+  .Collegeaid_image{
+    width: 100%;
+    border-radius: 50%;
+    /* height: 300px; */
+  }
+  .Training_and_Development{
+    width: 30%;
+    /* border: 10px;
+    margin-bottom: 30px;
+    border-radius: 30px; */
+    /* width: 20%; */
+    height: 200px;
+    /* border-radius: 50%; */
+    
+  }
+  .Training_image{
+    width: 100%;
+    /* border-radius: 50%; */
+    /* height: 300px; */
+  }
+
+
+  nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: #0e0d0d;
+    text-decoration: none;
+}
+.nav{
+  background-color: blue;
+}
+
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    border-radius: 30%;
+    
+
+  } 
+  .bigbox:hover{
+    background-color: aliceblue;
+  }
+    h1{
+    background-color: rgb(110, 238, 25);
+   } 
+   /* body{
+    background-color: rgb(8, 78, 78); */
+  /* }  */
+  
+  .homes{
+    display: flex;
+    flex-wrap: wrap;
+  }
+   
